@@ -1,4 +1,4 @@
-com.flutter.template.enterprise_app_template
+com.flutter.enterprise_app_template
 attr activityAction
 attr activityName
 attr alpha

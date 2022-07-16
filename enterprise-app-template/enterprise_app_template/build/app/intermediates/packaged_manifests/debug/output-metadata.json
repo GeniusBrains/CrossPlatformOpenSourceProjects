@@ -4,7 +4,7 @@
     "type": "PACKAGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.flutter.template.enterprise_app_template",
+  "applicationId": "com.flutter.enterprise_app_template",
   "variantName": "debug",
   "elements": [
     {

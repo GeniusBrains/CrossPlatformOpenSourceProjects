@@ -38,7 +38,7 @@ INJECTED from D:\MyGithub\GeniusBrainsOrganization\flutter\enterprise-app-templa
 INJECTED from D:\MyGithub\GeniusBrainsOrganization\flutter\enterprise-app-template\enterprise_app_template\android\app\src\debug\AndroidManifest.xml:1:1-8:12
 INJECTED from D:\MyGithub\GeniusBrainsOrganization\flutter\enterprise-app-template\enterprise_app_template\android\app\src\debug\AndroidManifest.xml:1:1-8:12
 	package
-		ADDED from D:\MyGithub\GeniusBrainsOrganization\flutter\enterprise-app-template\enterprise_app_template\android\app\src\main\AndroidManifest.xml:2:5-59
+		ADDED from D:\MyGithub\GeniusBrainsOrganization\flutter\enterprise-app-template\enterprise_app_template\android\app\src\main\AndroidManifest.xml:2:5-50
 		INJECTED from D:\MyGithub\GeniusBrainsOrganization\flutter\enterprise-app-template\enterprise_app_template\android\app\src\main\AndroidManifest.xml
 		INJECTED from D:\MyGithub\GeniusBrainsOrganization\flutter\enterprise-app-template\enterprise_app_template\android\app\src\debug\AndroidManifest.xml
 	android:versionName

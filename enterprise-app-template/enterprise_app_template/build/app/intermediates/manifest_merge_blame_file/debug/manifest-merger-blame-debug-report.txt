@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.flutter.template.enterprise_app_template"
+3    package="com.flutter.enterprise_app_template"
 4    android:versionCode="1"
 5    android:versionName="1.0.0" >
 6
@@ -24,7 +24,7 @@
 21        android:icon="@mipmap/ic_launcher"
 22        android:label="enterprise_app_template" >
 23        <activity
-24            android:name="com.flutter.template.enterprise_app_template.MainActivity"
+24            android:name="com.flutter.enterprise_app_template.MainActivity"
 25            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
 26            android:exported="true"
 27            android:hardwareAccelerated="true"
