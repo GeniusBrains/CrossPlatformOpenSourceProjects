@@ -1,4 +1,0 @@
-#Sat Jul 16 22:57:57 ICT 2022
-base.0=D\:\\MyGithub\\GeniusBrainsOrganization\\flutter\\enterprise-app-template\\enterprise_app_template\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
